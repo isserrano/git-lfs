@@ -1,4 +1,5 @@
 # Git Large File Storage [![Build Status](https://travis-ci.org/github/git-lfs.svg?branch=master)](https://travis-ci.org/github/git-lfs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fisserrano%2Fgit-lfs.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fisserrano%2Fgit-lfs?ref=badge_shield)
 
 Git LFS is a command line extension and [specification](docs/spec.md) for
 managing large files with Git. The client is written in Go, with pre-compiled
@@ -78,3 +79,7 @@ Once you've made your commits, push your files to the Git remote:
 
 See the [Git LFS overview](https://github.com/github/git-lfs/tree/master/docs)
 and [man pages](https://github.com/github/git-lfs/tree/master/docs/man).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fisserrano%2Fgit-lfs.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fisserrano%2Fgit-lfs?ref=badge_large)
